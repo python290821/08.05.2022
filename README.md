@@ -1,1 +1,2 @@
-# 08.05.2022
+# npm start
+# browse to localhost:8088
