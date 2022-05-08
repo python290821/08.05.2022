@@ -21,7 +21,7 @@ app.get('/page1', (req, resp) => {
     resp.sendFile(path.join(__dirname, 'page1.html'))
 })
 app.get('/add', (req, resp) => {
-    // http://localhost:8088/add?x=4&y=3
+    // http://localhost:8088/add?x=4&y=3 
     // http://localhost:8088/flights?origin=israel
     console.log(req.url)
     console.log(req.query)
