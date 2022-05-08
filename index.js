@@ -8,6 +8,6 @@ const port = 8088
 
 const app = express();
 
-app.use(express.static(path.join(__dirname, '/static/')))
+app.use(express.static(path.join(__dirname, 'static')))
 
 app.listen(port, () => console.log(`Listening to port ${port}`))
