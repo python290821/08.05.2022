@@ -1,0 +1,14 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js",
+    "aaa": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
