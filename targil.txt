@@ -1,0 +1,8 @@
+npm i lodash
+delete the node_modules folder
+npm i
+did it return?
+
+npm install gulp gulp-sass --save-dev
+look for dev-dependencies in the package.json
+
